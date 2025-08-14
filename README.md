@@ -1,16 +1,26 @@
-## Hi there 👋
+🌟 About Me
+Hi, I’m Farman Ali – a passionate Software Engineer and MERN Stack Developer with over 2 years of experience building scalable, high-performance web and mobile applications. I specialize in React.js, Next.js, Node.js, Express, and MongoDB, crafting solutions that merge clean code with elegant design.
 
-<!--
-**Farman-Ali-1/Farman-Ali-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 What I Do
 
-Here are some ideas to get you started:
+🚀 Build modern, responsive, and user-friendly web apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Develop scalable backend APIs and integrations
+
+🎨 Craft UI/UX with Tailwind CSS and component-driven design
+
+📱 Work on cross-platform mobile apps with React Native
+
+☁️ Deploy projects on cloud platforms (Vercel, AWS, Firebase)
+
+
+📌 Highlights
+
+Successfully delivered 20+ projects for clients worldwide
+
+Experience working with startups & established businesses
+
+Active contributor to open-source and collaborative projects
+
+
+📫 Let’s Connect: LinkedIn | Portfolio
